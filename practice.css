@@ -1,0 +1,7 @@
+.size{
+  font-size: 40px;
+  color: #777;
+}
+.size:hover{
+  color: black;
+}
